@@ -1,0 +1,10 @@
+pair_id,drug_a,drug_b,pair_group
+FDA_2,palbociclib,Anastrozole,FDA_approved
+FDA_3,Ribociclib,Anastrozole,FDA_approved
+FDA_4,Abemaciclib,Anastrozole,FDA_approved
+FDA_5,palbociclib,Fulvestrant,FDA_approved
+FDA_6,Ribociclib,Fulvestrant,FDA_approved
+FDA_7,Abemaciclib,Fulvestrant,FDA_approved
+FDA_8,Alpelisib,Fulvestrant,FDA_approved
+FDA_9,Capivasertib,Fulvestrant,FDA_approved
+FDA_10,Gemcitabine,Paclitaxel,FDA_approved
